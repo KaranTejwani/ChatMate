@@ -1,6 +1,6 @@
-# chatMate 💬
+# ChatMate 💬
 
-**chatMate** is a Java-based local chat application that enables real-time communication between devices connected to the same Wi-Fi network. Built using socket programming, this project includes user authentication and chat history persistence.
+**ChatMate** is a Java-based local chat application that enables real-time communication between devices connected to the same Wi-Fi network. Built using socket programming, this project includes user authentication and chat history persistence.
 
 ---
 
@@ -18,12 +18,7 @@
 - Java (Core)
 - Socket Programming (TCP/IP)
 - File I/O for chat persistence
-- Basic GUI (optional: if you used Swing/JavaFX)
-
----
-
-## 📷 Screenshots
-*Include screenshots of the login screen, chat window, and console if available.*
+- Basic GUI (Swing and awt)
 
 ---
 
